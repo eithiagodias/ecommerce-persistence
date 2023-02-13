@@ -1,4 +1,13 @@
-<h1 align=center>Trabalho de Persistência de Dados</h1>
+<h1 align=center>FIAP - 1SCJR:Trabalho de Persistência de Dados</h1>
+
+Aluno     | RM
+--------- | ------
+THIAGO RODRIGUES DIAS		| 347328
+GIULIANA FERNANDES MUNARETTO | 346982
+DANIEL DA CUNHA NOBREGA | 347114
+JORGE ROSIVAN RODRIGUES BATISTA | 346669
+PEDRO SANTANA | 347374
+ROBERTO GUEDES GARRONES | 346541
 
 <b>Objetivo:</b> Criar um sistema de cadastro de produtos e pedidos em um portal de e-commercee
 
